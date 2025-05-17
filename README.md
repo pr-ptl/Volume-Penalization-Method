@@ -23,4 +23,5 @@ A focus on simplicity and clarity, making it ideal for educational use and valid
 REFERENCES
 
 [1] Angot, P., Bruneau, C.-H., & Fabrie, P. (1999). A penalisation method to take into account obstacles in viscous flows. Numerische Mathematik, 81(4), 497–520. https://doi.org/10.1007/s002110050357
+
 [2] Kadoch, B., Kolomenskiy, D., Angot, P., & Schneider, K. (2012). A volume penalization method for incompressible flows and scalar advection–diffusion with moving obstacles. Journal of Computational Physics, 231(12), 4365–4383. https://doi.org/10.1016/j.jcp.2012.01.036
